@@ -8,6 +8,7 @@ K-Car Navigator 프로젝트는 현대자동차 FAQ 데이터를 크롤링하고
 | :--- | :--- |
 | 신누리 | 4nchez@gmail.com | 
 | 정재희 | jjh2002x@gmail.com | 
+| 이서은 | lxxsxxeun@gmail.com |
 
 ## 기능
 
@@ -123,4 +124,3 @@ K-Car_Navigator/
 ## Authors
 
 - **신누리 (Shin Noo Ri)** - [@깃허브아이디](https://github.com/4nchez) - [이메일](mailto:4nchez@gmail.com)
--  **이서은 (Lee Seo Eun)** - [@깃허브 아이디](https://github.com/Cinccino) - [이메일](lxxsxxeun@gmail.com)
