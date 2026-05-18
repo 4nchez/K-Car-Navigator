@@ -9,7 +9,7 @@ K-Car Navigator 프로젝트는 현대자동차 FAQ 데이터를 크롤링하고
 | 신누리 | 4nchez@gmail.com | 
 | 정재희 | jjh2002x@gmail.com | 
 | 이서은 | lxxsxxeun@gmail.com |
-
+| 이호원 | coreawon09@gmail.com |
 ## 기능
 
 * 현대자동차 고객센터 FAQ 페이지 크롤링
