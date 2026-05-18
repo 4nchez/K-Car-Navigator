@@ -123,3 +123,4 @@ K-Car_Navigator/
 ## Authors
 
 - **신누리 (Shin Noo Ri)** - [@깃허브아이디](https://github.com/4nchez) - [이메일](mailto:4nchez@gmail.com)
+-  **이서은 (Lee Seo Eun)** - [@깃허브 아이디](https://github.com/Cinccino) - [이메일](lxxsxxeun@gmail.com)
