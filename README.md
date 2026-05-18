@@ -4,9 +4,9 @@ K-Car Navigator 프로젝트는 현대자동차 FAQ 데이터를 크롤링하고
 ---
 
 ## 작업자
-| 성명 | 이메일 |
+| 성명 | 이메일 |   
 | :--- | :--- |
-| 신누리 | 4nchez@gmail.com |
+| 신누리 | 4nchez@gmail.com | | 정재희 | jjh2002x@gmail.com | 
 
 ## 기능
 
